@@ -1,0 +1,18 @@
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Session/Views/Timer/ProgressView.swift":
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressView.swiftdeps"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressView.dia"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressView.swiftconstvalues"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressView.d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressView.o"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Base /Views/BaseInfoView.swift":
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BaseInfoView.dia"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BaseInfoView.swiftconstvalues"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BaseInfoView.d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BaseInfoView.o"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BaseInfoView.swiftdeps"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Session/Views/Timer/TimerView.swift":
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/TimerView.swiftdeps"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/TimerView.dia"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/TimerView.swiftconstvalues"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/TimerView.o"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/TimerView.d"

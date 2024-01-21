@@ -1,0 +1,30 @@
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/Helpers/Extensions/Date + ext.swift":
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/Date + ext.o"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/Date + ext.swiftconstvalues"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/Date + ext.swiftdeps"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/Date + ext.dia"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/Date + ext.d"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/OverView/OverViewController.swift":
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewController.d"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewController.dia"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewController.o"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewController.swiftdeps"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewController.swiftconstvalues"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Progress/Views/Performance/MonthlyPerfomanceView.swift":
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/MonthlyPerfomanceView.o"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/MonthlyPerfomanceView.swiftdeps"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/MonthlyPerfomanceView.swiftconstvalues"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/MonthlyPerfomanceView.dia"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/MonthlyPerfomanceView.d"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/OverView/Views/OverViewNavBar .swift":
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .o"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .swiftconstvalues"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .dia"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .swiftdeps"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .d"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/OverView/Views/WeekView/WeekView.swift":
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/WeekView.swiftdeps"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/WeekView.swiftconstvalues"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/WeekView.dia"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/WeekView.d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/WeekView.o"

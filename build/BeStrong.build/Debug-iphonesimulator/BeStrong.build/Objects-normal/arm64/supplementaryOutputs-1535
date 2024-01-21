@@ -1,0 +1,24 @@
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/OverView/Views/OverViewNavBar .swift":
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .o"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .swiftconstvalues"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .dia"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/OverViewNavBar .swiftdeps"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Settings/SettingsViewController.swift":
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/SettingsViewController.swiftdeps"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/SettingsViewController.dia"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/SettingsViewController.d"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/SettingsViewController.swiftconstvalues"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/SettingsViewController.o"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Progress/ProgressViewController.swift":
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressViewController.d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressViewController.o"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressViewController.swiftconstvalues"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressViewController.swiftdeps"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/ProgressViewController.dia"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/Helpers/Extensions/UIView + ext.swift":
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/UIView + ext.swiftconstvalues"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/UIView + ext.d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/UIView + ext.o"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/UIView + ext.swiftdeps"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/UIView + ext.dia"

@@ -1,0 +1,18 @@
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Base /Views/BSBtutton.swift":
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BSBtutton.d"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BSBtutton.swiftconstvalues"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BSBtutton.dia"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BSBtutton.o"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/BSBtutton.swiftdeps"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/Application/AppDelegate.swift":
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/AppDelegate.o"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/AppDelegate.dia"
+"/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/BeStrong/ViewControllers/Navigation/NavBarViewController.swift":
+  diagnostics: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/NavBarViewController.dia"
+  const-values: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/NavBarViewController.swiftconstvalues"
+  swift-dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/NavBarViewController.swiftdeps"
+  dependencies: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/NavBarViewController.d"
+  object: "/Users/dasha/Desktop/Study/BeStrongApp/BeStrong/build/BeStrong.build/Debug-iphonesimulator/BeStrong.build/Objects-normal/arm64/NavBarViewController.o"
